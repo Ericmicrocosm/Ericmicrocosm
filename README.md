@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Ericmicrocosm
-- 👀 I’m interested in photonics
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on light matters
 - 📫 How to reach me: eridushimire@gmail.com
 - 😄 Pronouns: Eric 
 - ⚡ Fun fact: We are thinking waves of light
